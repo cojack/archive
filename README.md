@@ -2,8 +2,7 @@
 Bash function to extract and compress in unified style
 
 # how to
-cd ~
-wget https://raw.githubusercontent.com/cojack/archive/master/archive.sh
+cd ~ && wget https://raw.githubusercontent.com/cojack/archive/master/archive.sh
 
 Edit your .bashrc file and add at the end:
 
